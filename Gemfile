@@ -20,4 +20,4 @@ end
 
 # To use debugger
 # gem 'debugger'
-gem "paper_trail", "= 8.1.2"
+gem "paper_trail"
